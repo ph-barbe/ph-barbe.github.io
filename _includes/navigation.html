@@ -1,8 +1,18 @@
-<nav>
-    {% for item in site.data.navigation %}
-        <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+<nav class="navigation">
+    <ul class="navigationList">
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.link }}" 
+                class ="
+                navigationItem
+                {% if page.url == item.link %} navigationOnPageColor
+                {% else %} navigationColor
+                {% endif %} 
+                ";
+            >
             {{ item.name }}
-        </a>
-        &nbsp; &nbsp; 
+            </a>
+        </li>
     {% endfor %}
+    </ul>
 </nav>

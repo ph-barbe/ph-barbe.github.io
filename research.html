@@ -1,0 +1,14 @@
+---
+layout: default
+title: Research
+---
+<h1>Research</h1>
+
+<ul>
+  {% for items in site.research %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ item.title }}</a></h2>
+      {{ item.excerpt }}
+    </li>
+  {% endfor %}
+</ul>

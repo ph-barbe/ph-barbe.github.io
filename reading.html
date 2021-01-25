@@ -1,0 +1,14 @@
+---
+layout: default
+title: Reading
+---
+<h1>Reading</h1>
+
+<ul>
+  {% for item in site.reading %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ item.title }}</a></h2>
+      {{ item.excerpt }}
+    </li>
+  {% endfor %}
+</ul>

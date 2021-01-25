@@ -1,0 +1,14 @@
+---
+layout: default
+title: Music
+---
+<h1>Music</h1>
+
+<ul>
+  {% for item in site.music %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ item.title }}</a></h2>
+      {{ item.excerpt }}
+    </li>
+  {% endfor %}
+</ul>

@@ -2,5 +2,29 @@
 layout: default
 title: Home
 ---
+<div class="standardPadding">
+    <h1>{{ "Philippe Barbe" }}</h1>
+    
+    <div class="section";>
+    {% capture temp %}{% include_relative _includes/top_page/professional_interests.md %}{% endcapture %}
+    {{ temp  | markdownify }}
+    </div>
+    <br><br>
 
-<h1>{{ "Hello World!" | downcase }}</h1>
+    <div class="section";>
+        {% capture temp %}{% include_relative _includes/top_page/what_i_do.md %}{% endcapture %}
+        {{ temp  | markdownify }}
+        </div>
+        <br><br>
+    
+    <div class="section";>
+    {% capture temp %}{% include_relative _includes/top_page/professional_bio.md %}{% endcapture %}
+    {{ temp  | markdownify }}
+    </div>
+    <br><br>
+    
+    <div class="section";>
+    {% capture temp %}{% include_relative _includes/top_page/personal_interests.md %}{% endcapture %}
+    {{ temp  | markdownify }}
+    </div>
+</div>
