@@ -1,0 +1,8 @@
+- name: Professional interests
+  link: _includes/top_page/professional_interests.md
+- name: What I do
+  link: _includes/top_page/what_i_do.md
+- name: Bio-sketch
+  link: _includes/top_page/professional_bio.md
+- name: Personal interests
+  link: _includes/top_page/personal_interests.md
