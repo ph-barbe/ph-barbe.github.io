@@ -1,0 +1,15 @@
+---
+layout: post
+author: jill
+---
+To build this site, I used Jekyll. I could not find a theme that suited what I wanted to do, and ended up writing a lot more css than I anticipated!
+
+Some of the fine points that were annoying: 
+
+- all the ligning up of boxes and text that make the page;
+
+- the detail on the navigation menu (the page you are on is marked darker, and color changes as you hover on the items);
+
+- when writing a list in markdown, markdownify seems to add some div or p in the html, which somehow messed up some of the css classes;
+
+- originally, the text was in black, but a dark gray works better;

@@ -14,14 +14,30 @@ body { background-color: #F0F0F0; color: #202020; line-height: 1.5; }
 
 .navigationList { list-style-type: none; margin: 0; padding-left: 20%; padding-right: 20%; overflow: hidden; }
 
-.navigationItem { padding-left: var(--basicPadding); padding-right: var(--basicPadding); }
+.navigationList a { padding-left: var(--basicPadding); padding-right: var(--basicPadding); }
 
 .navigationOnPageColor { color: #000000; }
 
-li { float: left; }
+.navigation ul { list-style: none; float: left; }
+
+.navigation li { display: inline; float: left; }
 
 a:hover { color: #404040; }
 
 .section { border-radius: 25px; background: #FFFFFF; border-left: var(--basicPadding); border-right: var(--basicPadding); padding-left: var(--basicPadding); padding-right: var(--basicPadding); padding-top: 5px; padding-bottom: 10px; box-shadow: 2px 3px 3px #E0E0E0; }
+
+.blogTable tr td:first-child { width: 30%; }
+
+.blogTable tr td:nth-child(2) { width: 70%; padding-left: 5%; }
+
+.blogImg { max-width: 100%; height: auto; }
+
+.imageCaption { font-size: 70%; }
+
+.blogPostDate { font-size: 70%; }
+
+.bookCoverTable tr td:first-child { width: 10%; }
+
+.bookCoverTable tr td:nth-child(2) { width: 90%; padding-left: 1%; }
 
 /*# sourceMappingURL=styles.css.map */

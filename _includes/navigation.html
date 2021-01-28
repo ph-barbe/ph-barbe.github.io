@@ -3,8 +3,7 @@
         {% for item in site.data.navigation %}
         <li>
             <a href="{{ item.link }}" 
-                class ="
-                navigationItem
+                class="
                 {% if page.url == item.link %} navigationOnPageColor
                 {% else %} navigationColor
                 {% endif %} 

@@ -1,0 +1,39 @@
+
+- title: q-Algebraic Equations, their power series solutions, and the asymptotic behavior of their coefficients
+  coauthor: J. Cano, P. Fortuny Ayuso, W.P. McCormick
+  year: 2020
+  url: https://arxiv.org/pdf/2006.09527.pdf
+  cover: q_alg_eq_cover.png
+  comment:
+
+- title: Asymptotic expansions for infinite weighted convolutions of heavy tail distributions and applications
+  coauthor: W.P. McCormick (UGA) 
+  series: Memoirs of the American Mathematical Society
+  year: 2009
+  publisher: AMS
+  url: https://bookstore.ams.org/memo-197-922/
+  cover: memo-197-922-1.png
+  comment:
+
+- title: Integral over Asymptotic Sets, with Applications in Statistics and Probability
+  year: 2003
+  url: https://arxiv.org/pdf/math/0312132.pdf
+  cover: ioas.png
+  comment: 
+
+- title: Cours de Probabilité pour la Licence
+  coauthor: Michel Ledoux (UPS)
+  year: 1999
+  publisher: Belin and Editions 31; 2nd edition EDP (2007)
+  url: https://laboutique.edpsciences.fr/produit/120/9782759801817/Probabilite
+  cover: Probabilit__medium.jpeg
+  comment: 
+
+- title: The Weighted Bootstrap
+  coauthor: Patrice Bertail (INRA) 
+  series: Lecture Notes in Statistics
+  year: 1995
+  publisher: Springer
+  url: https://www.springer.com/gp/book/9780387944784
+  cover: 9780387944784.jpeg
+  comment: 

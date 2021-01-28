@@ -1,7 +1,24 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<div class="section">
+<table class="blogTable">
+    <tr>
+        <td>
+            <img src="{{site.baseurl}}/assets/images/{{page.image}}" 
+                 alt="Image of various media" 
+                 style="width:100%;">
+            <figcaption class="imageCaption">credit: {{ page.credit }}</figcaption>
+        </td>
+        <td>
+            <div class="blogPostDate">
+                {{ page.date | date_to_string }}
+            </div>
+            <br>
+            <h1>{{ page.title }}</h1>
+        </td>
+    </tr>
+</table>
 
 {{ content }}
+</div>

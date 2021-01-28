@@ -41,16 +41,21 @@ body{
     overflow: hidden;
 }
 
-.navigationItem {
-    padding-left: var(--basicPadding);
+.navigationList a{
+    padding-left: var(--basicPadding); 
     padding-right: var(--basicPadding);
-  }
+}
 
 .navigationOnPageColor{
     color: #000000;
 }
 
-li {
+.navigation ul{
+    list-style: none;
+    float: left;
+}
+.navigation li{
+    display: inline;
     float: left;
 }
 
@@ -69,3 +74,33 @@ a:hover{
     padding-bottom: 10px;
     box-shadow: 2px 3px 3px #E0E0E0;
 }
+
+.blogTable tr td:first-child {
+    width: 30%;
+  }
+.blogTable tr td:nth-child(2) {
+    width: 70%;
+    padding-left: 5%;
+  }
+
+.blogImg {
+    max-width: 100%;
+    height: auto;
+}
+
+.imageCaption{
+    font-size: 70%;
+}
+
+.blogPostDate{
+    font-size: 70%;
+}
+
+.bookCoverTable tr td:first-child {
+    width: 10%;
+  }
+
+.bookCoverTable tr td:nth-child(2) {
+    width: 90%;
+    padding-left: 1%;
+  }

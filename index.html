@@ -2,14 +2,10 @@
 layout: default
 title: Home
 ---
-<div class="standardPadding">
-    <h1>{{ "Philippe Barbe" }}</h1>
-    
-    {% for item in site.data.home_page %}
-        <div class="section";>
-            {% capture temp %}{% include_relative {{ item.link }}%}{% endcapture %}
-            {{ temp  | markdownify }}
-        </div>
-        <br><br>
-    {% endfor %}
-</div>
+{% for item in site.data.home_page %}
+    <div class="section";>
+        {% capture temp %}{% include_relative {{ item.link }}%}{% endcapture %}
+        {{ temp  | markdownify }}
+    </div>
+    <br><br>
+{% endfor %}

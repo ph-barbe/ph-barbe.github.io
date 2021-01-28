@@ -2,13 +2,106 @@
 layout: default
 title: Research
 ---
-<h1>Research</h1>
+<h2>Books</h2>
 
-<ul>
-  {% for items in site.research %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ item.title }}</a></h2>
-      {{ item.excerpt }}
-    </li>
+{% for item in site.data.publications_books %}
+  <div class="section">
+    <table class="bookCoverTable">
+      <tr>
+        <td>
+          <a href="{{ item.url }}">
+            <img src="{{site.baseurl}}/assets/images/{{item.cover}}" 
+                 alt="book cover"
+                 style="width:50%;">
+          </a>
+        </td>
+        <td>
+          <b>
+            <a href="{{ item.url }}" class="navigationOnPageColor">
+              {{ item.title}}
+            </a>
+            ,
+          </b>
+          {% if item.series != null %}
+            {{ item.series  }},
+          {% endif %}
+          {% if item.publisher != null %}
+            {{ item.publisher }},
+          {% endif %}
+          {{ item.year }}
+          {% if item.coauthor != null %} 
+            , with {{ item.coauthor }}
+          {% endif %}
+        </td>
+      </tr>
+    </table>
+  </div>
+  <br>
+{% endfor %}
+
+<h2>Published papers</h2>
+
+<div class="section">
+  {% for item in site.data.publications_articles %}
+    {% if item.url != null %}
+      <a href="{{ item.url }}" class="navigationOnPageColor">
+        {{item.title}}
+      </a>
+    {% else %}
+      {{item.title}}
+    {% endif %}
+    ({{item.year}}):
+    {% if item.in != null %}
+      in
+      <i>
+        {{item.in}},
+      </i>
+      pp. {{item.pages}},
+      {{ item.editors }} ed.,
+      {{item.publisher}}.
+    {% else %} 
+      <i>
+        {{item.journal}},
+      </i>
+      <b>
+        {{item.volume}},
+      </b>
+      {% if item.coauthor != null %}
+        {{item.pages}},
+        with {{item.coauthor}}.
+      {% else %}
+        {{item.pages}}.
+      {% endif %}
+    {% endif %}
+    <br><br>
   {% endfor %}
-</ul>
+</div>
+
+
+<h2>Unpublished work</h2>
+
+<div class="section">
+  {% for item in site.data.unpublished_articles %}
+    {% if item.url != null %}
+      <a href="{{ item.url }}" class="navigationOnPageColor">
+        {{item.title}}
+      </a>
+    {% else %}
+      {{item.title}}
+    {% endif %}
+    {% if item.pages != null or item.coauthor != null %}
+      ({{item.year}}),
+      {% if item.pages != null and item.coauthor != null %}
+        with {{ item.coauthor }}, {{item.pages}}
+      {% else %}
+         {{item.coauthor}}{{item.pages}}.
+      {% endif %}
+    {% else %}
+      ({{item.year}}).
+    {% endif %}
+    <br><br>
+  {% endfor %}
+</div>
+
+
+
