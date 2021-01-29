@@ -1,6 +1,10 @@
 ### Bio sketch
 
+My original training was in economics and government affairs.
+
 I have been a professional mathematician from 1994 to 2014, working at the Centre National de la Recherche Scientifique, mostly traveling the world (I was invited professor at Yale, Georgia Tech and the like on the planet). I invented some new mathematics, including data science, wrote over 50 refereed papers, and 5 books. I am still doing some math when I have time. I also gave many talks, for audiences ranging from a few to over 1,000.
+
+Since 2014, I have been working in the US, in consulting (health care and IoT) and media.
 
 Originally, my expertise was in data science, but I ended up very knowledgeable in many other areas that most data scientists ignore though they are extremely useful in data science: harmonic analysis, group representation, differential geometry, algebraic topology, ODE and PDE, current probability theory, some algebraic geometry, and other areas. 
 
