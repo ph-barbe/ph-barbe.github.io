@@ -6,13 +6,13 @@ I have been a professional mathematician from 1994 to 2014, working at the Centr
 
 Since 2014, I have been working in the US, in consulting (health care and IoT) and media.
 
-Originally, my expertise was in data science, but I ended up very knowledgeable in many other areas that most data scientists ignore though they are extremely useful in data science: harmonic analysis, group representation, differential geometry, algebraic topology, ODE and PDE, current probability theory, some algebraic geometry, and other areas. 
+Originally, my expertise was in data science, but I ended up very knowledgeable in many other areas that most data scientists ignore though they are extremely useful in data science: harmonic analysis, group representation, differential geometry, algebraic topology, ODE and PDE, current probability theory, some algebraic geometry, and other areas. My personal mathematics library has about 2,000 volumes -- I read and own more regular books too!
 
 My published papers are in statistics, probability theory, combinatoris and q-algebraic equations, and some with a bend toward differential geometry and harmonic analysis.
 
 Traveling is important to me, not as a tourist, but to work and meet with people. Changing scenery is good to look at problems from a different perspective. I have been working in a few countries in Europe, North America and Asia. Notably, I have been going to China since 1996.
 
-I have been collaborating with economists, medical doctors, physicist, and biologists.
+I have been collaborating with mathematicians, statisticians, economists, medical doctors, physicist, and biologists.
 
 At some point I was an economist, and did some noted work on the cost of unemployment in France.
 
