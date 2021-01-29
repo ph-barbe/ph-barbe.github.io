@@ -12,4 +12,10 @@ I have been collaborating with economists, medical doctors, physicist, and biolo
 
 At some point I was an economist, and did some noted work on the cost of unemployment in France.
 
-I am a decent programmer. Since 2014, I am mostly using the stack mentionned in "what I do". I also use TeX to write math, and Postscript when I need to do some highly complex and accurate graphics. I used R between 2000 and 2014. In a far past, I knew SAS very well. Over the years I have learned (and forgoten) Basic, Pascal, Fortran, Lisp, Rexx, C, C++ and a few others. I setup this website with Jekyll. I could not find a theme I liked and ended up writing more html and css than I anticipated.
+I am a decent programmer. Since 2014, my technical stack is mostly around Python (including Pandas, Numpy, Scikitlearn and many many others), SQL and variants, and if I need to write a UI, HTML, CSS, Javascript, and PHP or Python. I use PySpark if I need to process large volumes.
+
+I also use TeX to write math, and Postscript when I need to do some highly complex and accurate graphics. 
+
+I used R between 2000 and 2014. In a far past, I knew SAS very well. Over the years I have learned (and forgoten) Basic, Pascal, Fortran, Lisp, Rexx, C, C++ and a few others. 
+
+I setup this website with Jekyll. I could not find a theme I liked and ended up writing more html and css than I anticipated.
