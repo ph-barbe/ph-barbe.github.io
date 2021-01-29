@@ -40,4 +40,8 @@ a:hover { color: #404040; }
 
 .bookCoverTable tr td:nth-child(2) { width: 90%; padding-left: 1%; }
 
+.musicTable tr td:first-child { width: 50%; }
+
+.musicTable tr td:nth-child(2) { width: 50%; padding-left: 5%; }
+
 /*# sourceMappingURL=styles.css.map */
