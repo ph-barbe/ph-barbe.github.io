@@ -1,14 +1,11 @@
 ---
 layout: default
-title: Photography
+title: Home
 ---
-<h1>Photography</h1>
-
-<ul>
-  {% for item in site.photography %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ item.title }}</a></h2>
-      {{ item.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+{% for item in site.data.photography %}
+    <div class="section";>
+        {% capture temp %}{% include_relative {{ item.link }}%}{% endcapture %}
+        {{ temp  | markdownify }}
+    </div>
+    <br><br>
+{% endfor %}

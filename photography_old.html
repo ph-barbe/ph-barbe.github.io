@@ -1,0 +1,68 @@
+---
+layout: default
+title: Photography
+---
+
+<div class="section">
+  <p>
+    I am not a serious photographer.
+  </p> 
+  <p>
+    I spent some time in the past working on
+    pictures with a non-digital camera and black and white films. 
+    When digital came, I had other priorities, and never bought a good
+    digital camera. When phones became good camera, my interest 
+    in photography came back, in a different way, and I can see myself 
+    getting more serious about it in the future.
+  </p>
+  <p>
+    I take pictures for various reasons:
+  </p>
+  <h2>
+    Pictures for friends
+  </h2>
+      My friend Brian was born in the United States, knows his country very
+      well, is well traveled within, but never went outside. His curiosity
+      is boundless though. Because I
+      traveled and still travel a fair amount in Europe and Asia, he asked
+      me to show him what these places look like. I take picture of places
+      for him. I cannot remember how, but Carole joined Brian in asking
+      picture. So I take pictures for Brian and Carole!
+      Ordinary street life, most unoticeable places. But once they
+      are pictured, these places become different. The eye searches something,
+      the mind askes questions. The undescript becomes mysterious: what is
+      this store, what is the smell in this street, who are these people,
+      what are they doing?
+      <img src="/photography/places/IMG_5038.JPG" size=100%>
+    </li>
+    <li>
+      the architecture is noticeable;
+    </li>
+    <li>
+      an object is particularly nice;
+    </li>
+    <li>
+      nature is amazing.
+    </li>
+  </ul>
+  <p>
+    I also take picture of people, sometimes to remember them or remember an
+    event, other times, because they are a living representation of a times
+    and place, or because they may wear something I find unusually nice.
+    However, I take seriously their privacy. Hence, I do not share these 
+    pictures.
+  </p>
+  <p>
+
+  </p>
+
+</div>
+
+<ul>
+  {% for item in site.photography %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ item.title }}</a></h2>
+      {{ item.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
