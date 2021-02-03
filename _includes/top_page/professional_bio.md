@@ -8,13 +8,13 @@ Since 2014, I have been working in the US, in consulting (health care and IoT) a
 
 Originally, my expertise as mathematician was in data science, but I ended up very knowledgeable in many other areas that most data scientists ignore though they are extremely useful in data science: harmonic analysis, group representation, differential geometry, algebraic topology, ODE and PDE, current probability theory, some algebraic geometry, and other areas. My personal mathematics library has about 2,000 volumes -- I read and own more regular books too!
 
-My published papers are in statistics, probability theory, combinatorics and q-algebraic equations, and some with a bend toward differential geometry, harmonic analysis, and algebra.
+My published papers are in data science, probability theory, combinatorics and q-algebraic equations, and some with a bend toward differential geometry, harmonic analysis, and algebra.
 
-I have been collaborating with other mathematicians, statisticians, economists, medical doctors, physicist, and biologists. This gave me the opportunity to work with people on and from different continent, different language, different culture both in terms of the country they come from and their professional interests.
+I have been collaborating with other mathematicians, statisticians, economists, medical doctors, physicists, and biologists. This gave me the opportunity to work with people on and from different continent, different language, different culture both in terms of the country they come from and their professional interests.
 
 Traveling to work and meet with people is an important part of my life. Changing scenery is good to look at problems from a different perspective. I have been working in a few countries in Europe, North America and Asia. Notably, I have been going to China since 1996. I seldom travel to the sole purpose of tourism, but if I am somewhere, I certainly go to see museums, significant places, and the surroundings.
 
-I am a decent programmer. Since 2014, my technical stack is mostly around Python (including Pandas, Numpy, Scikitlearn and many many others), SQL and variants, and if I need to write a UI, HTML, CSS, Javascript, and PHP or Python. I use PySpark if I need to process large volumes.
+Since 2014, my technical stack for computing is mostly around Python (including Pandas, Numpy, Scikitlearn and many many others), SQL and variants, and if I need to write a UI, HTML, CSS, Javascript, and PHP or Python. I use PySpark if I need to process large volumes.
 
 I also use TeX to write math, and Postscript when I need to do some highly complex and accurate graphics. 
 
