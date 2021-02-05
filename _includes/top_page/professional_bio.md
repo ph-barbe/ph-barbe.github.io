@@ -8,9 +8,9 @@ Since 2014, I have been working in the US, in consulting (health care and IoT) a
 
 Originally, my expertise as mathematician was in data science, but I ended up very knowledgeable in many other areas that most data scientists ignore though they are extremely useful in data science: harmonic analysis, group representation, differential geometry, algebraic topology, ODE and PDE, current probability theory, some algebraic geometry, and other areas. My personal mathematics library has about 2,000 volumes -- I read and own more regular books too!
 
-My published papers are in data science, probability theory, combinatorics and q-algebraic equations, and some with a bend toward differential geometry, harmonic analysis, and algebra.
+My published papers are in data science, probability theory, combinatorics, q-algebraic geometry, some with a bend toward differential geometry, harmonic analysis, and algebra.
 
-I have been collaborating with other mathematicians, statisticians, economists, medical doctors, physicists, and biologists. This gave me the opportunity to work with people on and from different continent, different language, different culture both in terms of the country they come from and their professional interests.
+I have been collaborating with other mathematicians, statisticians, economists, medical doctors, physicists, engineers, and biologists. This gave me the opportunity to work with people on and from different continents, different languages, different cultures both in terms of the country they come from and their professional interests.
 
 Traveling to work and meet with people is an important part of my life. Changing scenery is good to look at problems from a different perspective. I have been working in a few countries in Europe, North America and Asia. Notably, I have been going to China since 1996. I seldom travel to the sole purpose of tourism, but if I am somewhere, I certainly go to see museums, significant places, and the surroundings.
 
@@ -18,6 +18,6 @@ Since 2014, my technical stack for computing is mostly around Python (including 
 
 I also use TeX to write math, and Postscript when I need to do some highly complex and accurate graphics. 
 
-I used R between 2000 and 2014. In a far past, I knew SAS very well. Over the years I have learned (and forgoten) Basic, Pascal, Fortran, Lisp, Rexx, C, C++ and a few others. 
+I used R between 2000 and 2014. In a far past, I knew SAS very well. Over the years I have learned (and forgotten) Basic, Pascal, Fortran, Lisp, Rexx, C, C++ and a few others. 
 
 I setup this website with Jekyll. I could not find a theme I liked and ended up writing more html and css than I anticipated.

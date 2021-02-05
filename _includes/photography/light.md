@@ -7,7 +7,7 @@ My friend Joseph who studied photography seriously told me that photography is a
 ![boats]({{site.baseurl}}/photography/places/light/IMG_1482.JPG){:class="img-responsive" width="30%" float="left"} 
 ![canal]({{site.baseurl}}/photography/places/light/IMG_1475.JPG){:class="img-responsive" width="30%" float="left"}
 
-Classical painters did not make some of the most stunning skies they painted!
+Classical painters did not make up some of the most stunning skies they painted!
 
 ![sky]({{site.baseurl}}/photography/places/light/IMG_0448.JPG){:class="img-responsive" width="45%" style="float"}
 ![sky]({{site.baseurl}}/photography/places/light/IMG_6692.JPG){:class="img-responsive" width="45%" style="float"}

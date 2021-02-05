@@ -11,7 +11,8 @@ title: Music
   <p>
     I play the piano, though
     much less than before. I played the clarinet and the organ. I wrote a lot
-    music decades ago. Music technology was reserved for professionals then. However,
+    music decades ago. 
+    Music technology was reserved for professionals then. However,
     I had the great luck to meet the wonderful composer, architect and engineer 
     <a href="https://en.wikipedia.org/wiki/Iannis_Xenakis">Iannis Xenakis</a>
     and write for his <a href="https://en.wikipedia.org/wiki/UPIC">UPIC</a>.
@@ -22,16 +23,13 @@ title: Music
     Years later, in 2020, as I had to travel during the covid-19 pandemic, I
     had to quarantine a couple of times. I was seeking for something unusual to
     do while locked in a bedroom. I was told about 
-    <a href="https://musescore.org/en">Musescore</a> and thought it would be 
+    <a href="https://musescore.org/en">MuseScore</a> and thought it would be 
     interesting to try writing some music with it.
   </p>
   <p>
-    I am realistic on my composition skills! I am doing it for my own 
-    amusement, not as a serious composer.
-  </p>
-  <p>
     I found composing with
-    a computer a different experience than with paper. On a laptop it is 
+    a computer a very different experience than with paper, and I
+    ended up writing very different music. On a laptop it is 
     impossible to have an overall view of the score. Sketching a small bit
     is also more clunky than writing it quickly on a piece of paper, 
     particularly since I was learning the software, and using
@@ -39,18 +37,14 @@ title: Music
     are deceptively simple, like copying a pattern and transposing.
   </p>
   <p>
-    The rendering of the music through the software is quite
-    good for binary rythms. For more other ryhtms it can be really bad. 
-    One problem is that it does not interpret, placing accents on the beats,
-    adding dynamic. There are trick to fix these problems, but they are time
-    consuming to implements, it was more than I wanted to do. As a consequence,
-    the piece Quarantine 2 is rendered very poorly.
-  </p>
-  <p>
     Added to the rendering problem, I also like the baroque tradition of
     leaving a lot of freedom to the player, and therefore not marking
     too much the score. Afterall, if anyone wants to play these pieces
     with even other instruments, they are very welcome to do so!
+  </p>
+  <p>
+    I am realistic on my composition skills! I am doing it for my own 
+    amusement, not as a serious composer.
   </p>
 </div>
 
@@ -73,5 +67,9 @@ title: Music
         </td>
       </tr>
     </table>
+    {% if item.comment %}
+      {% capture temp %}{% include {{site.baseurl}}/music/{{item.score}}.md %}
+      {% endcapture %}{{ temp  | markdownify }}
+    {% endif %}
   </div>
 {% endfor %}

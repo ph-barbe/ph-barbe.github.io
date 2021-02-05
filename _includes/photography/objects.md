@@ -1,12 +1,12 @@
 ## Objects
 
-Objects are all around us. Decorative arts is an endless source of wonder that bringthens everyday life. I find very moving that humans have this desire for aesthetic in objects that we use every day. This aesthetic search makes every day objects exceptional, changing their function from being used every day to being used in special occasions.
+Objects are all around us. Decorative arts are an endless source of wonder that brightens everyday life. I find very moving that humans have this desire for aesthetic in objects that we use every day. This aesthetic search makes every day objects exceptional, changing their function from being used every day to being used in special occasions. Beyond captureing their beauty, picturing them is a way to express my admiration for those who design them.
 
 
 ![object]({{site.baseurl}}/photography/objects/IMG_0431.JPG){:class="img-responsive" width="70%" float="left"} 
 ![object]({{site.baseurl}}/photography/objects/IMG_5580.JPG){:class="img-responsive" width="25%" float="left"}
 
-Some of these objects are old, showing how this search for aesthetic is ingrained in us. It is also sometimes stunning how simple tools in the hand of trained craftsmen allow to create perfect objects, everywhere in the world.
+Some old objects show that this search for aesthetic is ingrained in us. It is also sometimes stunning how simple tools in the hand of trained craftsmen allow to create perfect objects, everywhere in the world.
 
 ![object]({{site.baseurl}}/photography/objects/IMG_2965.JPG){:class="img-responsive" width="30%" float="left"}
 ![object]({{site.baseurl}}/photography/objects/IMG_2959.JPG){:class="img-responsive" width="30%" float="left"}

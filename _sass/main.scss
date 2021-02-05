@@ -59,6 +59,10 @@ body{
     float: left;
 }
 
+a {
+    color: #202020;
+}
+
 a:hover{
     color: #404040;
 }
@@ -105,12 +109,17 @@ a:hover{
     padding-left: 1%;
   }
 
-.musicTable tr td:first-child {
-    width: 50%;
+.musicTable {
+    width: 100%
+}
+
+.musicTable tr td:nth-child(1) {
+    width: 70%;
+    padding-right: var(--basicPadding);
   }
 .musicTable tr td:nth-child(2) {
-    width: 50%;
-    padding-left: 5%;
+    width: 30%;
+    padding-right: var(--basicPadding);
   }
 
 .pictureLeft tr td:nth-child {
