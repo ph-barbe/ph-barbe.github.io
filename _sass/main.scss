@@ -13,19 +13,8 @@ body{
     line-height: 1.5;
 }
 
-
 .name{ 
     background-color: #FAFAFA;
-}
-
-.navigation {
-    background-color: #FAFAFA;
-    padding-top: 15px;
-    padding-bottom: 15px;
-}
-
-.navigationColor {
-    color: #707070;
 }
 
 .standardPadding{
@@ -49,6 +38,13 @@ a:hover{
     padding-left: var(--basicPadding);
     padding-right: var(--basicPadding);
     padding-top: 5px;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     box-shadow: 2px 3px 3px #E0E0E0;
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
 }
