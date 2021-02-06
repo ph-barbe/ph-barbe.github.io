@@ -1,0 +1,12 @@
+.musicTable {
+    width: 100%
+}
+
+.musicTable tr td:nth-child(1) {
+    width: 70%;
+    padding-right: var(--basicPadding);
+  }
+.musicTable tr td:nth-child(2) {
+    width: 30%;
+    padding-right: var(--basicPadding);
+  }

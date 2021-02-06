@@ -1,0 +1,36 @@
+.navigation {
+    background-color: #FAFAFA;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navigationColor {
+    color: #707070;
+}
+
+.navigationList {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 20%;
+    padding-right: 20%;
+    overflow: hidden;
+}
+
+.navigationList a{
+    padding-left: var(--basicPadding); 
+    padding-right: var(--basicPadding);
+}
+
+.navigationOnPageColor{
+    color: #000000;
+}
+
+.navigation ul{
+    list-style: none;
+    float: left;
+}
+.navigation li{
+    display: inline;
+    float: left;
+}
+

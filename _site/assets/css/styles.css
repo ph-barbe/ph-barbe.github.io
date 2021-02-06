@@ -25,6 +25,31 @@ body {
   padding-left: 20%;
   padding-right: 30%; }
 
+a {
+  color: #202020; }
+
+a:hover {
+  color: #404040; }
+
+.section {
+  border-radius: 25px;
+  background: #FFFFFF;
+  border-left: var(--basicPadding);
+  border-right: var(--basicPadding);
+  padding-left: var(--basicPadding);
+  padding-right: var(--basicPadding);
+  padding-top: 5px;
+  padding-bottom: 10px;
+  box-shadow: 2px 3px 3px #E0E0E0; }
+
+.navigation {
+  background-color: #FAFAFA;
+  padding-top: 15px;
+  padding-bottom: 15px; }
+
+.navigationColor {
+  color: #707070; }
+
 .navigationList {
   list-style-type: none;
   margin: 0;
@@ -46,58 +71,6 @@ body {
 .navigation li {
   display: inline;
   float: left; }
-
-a {
-  color: #202020; }
-
-a:hover {
-  color: #404040; }
-
-.section {
-  border-radius: 25px;
-  background: #FFFFFF;
-  border-left: var(--basicPadding);
-  border-right: var(--basicPadding);
-  padding-left: var(--basicPadding);
-  padding-right: var(--basicPadding);
-  padding-top: 5px;
-  padding-bottom: 10px;
-  box-shadow: 2px 3px 3px #E0E0E0; }
-
-.blogTable tr td:first-child {
-  width: 30%; }
-
-.blogTable tr td:nth-child(2) {
-  width: 70%;
-  padding-left: 5%; }
-
-.blogImg {
-  max-width: 100%;
-  height: auto; }
-
-.imageCaption {
-  font-size: 70%; }
-
-.blogPostDate {
-  font-size: 70%; }
-
-.bookCoverTable tr td:first-child {
-  width: 10%; }
-
-.bookCoverTable tr td:nth-child(2) {
-  width: 90%;
-  padding-left: 1%; }
-
-.musicTable {
-  width: 100%; }
-
-.musicTable tr td:nth-child(1) {
-  width: 70%;
-  padding-right: var(--basicPadding); }
-
-.musicTable tr td:nth-child(2) {
-  width: 30%;
-  padding-right: var(--basicPadding); }
 
 .pictureLeft tr td:nth-child {
   width: 20%; }
@@ -124,3 +97,38 @@ a:hover {
 .imgCentered {
   margin-left: auto;
   margin-right: auto; }
+
+.bookCoverTable tr td:nth-child(1) {
+  width: 10%; }
+
+.bookCoverTable tr td:nth-child(2) {
+  width: 90%;
+  padding-left: 1%; }
+
+.musicTable {
+  width: 100%; }
+
+.musicTable tr td:nth-child(1) {
+  width: 70%;
+  padding-right: var(--basicPadding); }
+
+.musicTable tr td:nth-child(2) {
+  width: 30%;
+  padding-right: var(--basicPadding); }
+
+.blogTable tr td:first-child {
+  width: 30%; }
+
+.blogTable tr td:nth-child(2) {
+  width: 70%;
+  padding-left: 5%; }
+
+.blogImg {
+  max-width: 100%;
+  height: auto; }
+
+.imageCaption {
+  font-size: 70%; }
+
+.blogPostDate {
+  font-size: 70%; }
