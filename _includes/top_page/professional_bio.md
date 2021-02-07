@@ -1,5 +1,3 @@
-### Bio sketch
-
 My original training was in economics and government affairs. I was more an economist or econometrician, and did some noted work on the cost of unemployment in France.
 
 I have been a professional mathematician from 1994 to 2014, working at the Centre National de la Recherche Scientifique (CNRS), mostly traveling the world (I was invited professor at Yale, Georgia Tech and the like on the planet). I invented some new mathematics, including data science, wrote over 50 refereed papers, and 5 books. I am still doing some math when I have time. I also gave many talks, for audiences ranging from a few to over 1,000.

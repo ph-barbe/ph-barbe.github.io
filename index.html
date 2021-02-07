@@ -3,9 +3,43 @@ layout: default
 title: Home
 ---
 {% for item in site.data.home_page %}
-    <div class="section";>
-        {% capture temp %}{% include_relative {{ item.link }}%}{% endcapture %}
-        {{ temp  | markdownify }}
-    </div>
+    {% if item.collapse %}
+        <div class="sectionNoPadding";>
+            <button class="collapsible">
+                    {{ item.name }}
+            </button>
+            <div class="content">
+                {% capture temp %}{% include_relative {{ item.link }}%}{% endcapture %}
+                {{ temp  | markdownify }}
+                <br>
+            </div>
+        </div>
+    {% else %}
+        <div class="section">
+            <h3>
+                {{ item.name }}
+            </h3>
+            {% capture temp %}{% include_relative {{ item.link }}%}{% endcapture %}
+            {{ temp  | markdownify }}
+        </div>
+    {% endif %}
     <br><br>
 {% endfor %}
+
+
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+    
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.maxHeight){
+          content.style.maxHeight = null;
+        } else {
+          content.style.maxHeight = content.scrollHeight + "px";
+        } 
+      });
+    }
+    </script>

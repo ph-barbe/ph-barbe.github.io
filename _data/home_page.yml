@@ -1,8 +1,15 @@
-- name: Professional interests
+- name: Professional interests and background
   link: _includes/top_page/professional_interests.md
+  collapse: False
 - name: What I do
   link: _includes/top_page/what_i_do.md
+  collapse: True
 - name: Bio-sketch
   link: _includes/top_page/professional_bio.md
+  collapse: True
+- name: On my avatar
+  link: _includes/top_page/on_avatar.md
+  collapse: True
 - name: Personal interests
   link: _includes/top_page/personal_interests.md
+  collapse: True
