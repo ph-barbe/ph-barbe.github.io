@@ -26,6 +26,28 @@ body {
     padding-right: 30%;
 }
 
+
+@media screen and (max-width: 1200px) {
+  .standardPadding{
+    padding-left: 10%;
+    padding-right: 15%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .standardPadding{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .standardPadding{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
 a {
     color: #202020;
 }
