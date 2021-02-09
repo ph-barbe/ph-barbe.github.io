@@ -1,7 +1,7 @@
 ---
 layout: post
 title: International legal landscape impacting media
-image: gdpr.png
+image: Map_of_the_world_by_the_US_Gov_as_of_2016_no_legend.png
 ---
 
 *Part 4 of 20 in a series examining the interplay of Data Science, AI, the media and advertising.*

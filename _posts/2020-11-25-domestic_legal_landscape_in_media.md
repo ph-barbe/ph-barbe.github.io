@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The domestic legal landscape in media
-image: Screenshot_2020-11-18%20%5BUSC02%5D%2047%20USC%20230%20Protection%20for%20private%20blocking%20and%20screening%20of%20offensive%20material.png
-
+image: nasa-1lfI7wkGWZ4-unsplash.jpg
+credit: Photo by NASA on Unsplash
 ---
 
 Part 3 of 20 in a series examining the interplay of Data Science, AI, the media and advertising.
