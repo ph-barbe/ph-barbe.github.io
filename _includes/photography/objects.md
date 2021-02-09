@@ -1,5 +1,3 @@
-## Objects
-
 Objects are all around us. Decorative arts are an endless source of wonder that brightens everyday life. I find very moving that humans have this desire for aesthetic in objects that we use every day. This aesthetic search makes every day objects exceptional, changing their function from being used every day to being used in special occasions. Beyond captureing their beauty, picturing them is a way to express my admiration for those who design them.
 
 

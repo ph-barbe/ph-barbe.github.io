@@ -1,5 +1,3 @@
-## Emptyness
-
 Emptyness raises self-awareness and the feeling of being in the world. Where are the others?
 
 | ![image-title-here]({{site.baseurl}}/photography/places/emptyness/IMG_4376.JPG){:class="img-responsive" width="100%" style="float"} | Road in the desert. This emptyness does not exist in Europe. But the road is a negation of the desert: it is built because people come here. I also like how lines converge to the focal point on the horizon. It is in fact surprising how many lines there are in the desert, to which humans add further lines. |

@@ -1,5 +1,3 @@
-## Effects
-
 I like to experiment with things, and repurpose them.
 
 The camera on my phone has a landscape function. The software tracks components of the image and glue them together as one rotates the camera. This allows for 360 degree (or less) pictures.

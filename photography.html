@@ -2,10 +2,20 @@
 layout: default
 title: Home
 ---
+
 {% for item in site.data.photography %}
-    <div class="section";>
-        {% capture temp %}{% include_relative {{ item.link }}%}{% endcapture %}
-        {{ temp  | markdownify }}
+    <div class="sectionNoPadding";>
+        <button class="collapsible">
+                {{ item.name }}
+        </button>
+        <div class="content">
+            {% capture temp %}{% include_relative {{ item.link }}%}{% endcapture %}
+            {{ temp  | markdownify }}
+            <br>
+        </div>
     </div>
-    <br><br>
+    <br>
 {% endfor %}
+
+<script src="{{ base.url | prepend: site.url }}/assets/js/collapsible.js">
+</script>

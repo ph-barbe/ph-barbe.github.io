@@ -1,20 +1,20 @@
 - name: Introduction
   link: _includes/photography/introduction.md
-- name: For Brian and Carole
+- name: Pictures for Brian and Carole
   link: _includes/photography/for_brian_and_carole.md
-- name: doors
+- name: Doors in Paris
   link: _includes/photography/doors.md
-- name: emptyness
+- name: Emptyness
   link: _includes/photography/emptyness.md
-- name: light
+- name: Light
   link: _includes/photography/light.md
-- name: ligth_and_place
+- name: Light and place
   link: _includes/photography/light_and_place.md
-- name: architecture
+- name: Architecture
   link: _includes/photography/architecture.md
-- name: objects
+- name: Objects
   link: _includes/photography/objects.md
-- name: textures
+- name: Textures
   link: _includes/photography/textures.md
-- name: virtual
+- name: Effects
   link: _includes/photography/virtual.md

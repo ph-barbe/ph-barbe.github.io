@@ -1,5 +1,3 @@
-## Light
-
 My friend Joseph who studied photography seriously told me that photography is about light. Sometimes I take pictures just because of the light, not so much because the light is stunning, but because it forces me to realize it and think about it. Photography for me is a way to look at the world and appreciate its beauty.
 
 

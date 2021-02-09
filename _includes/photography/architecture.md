@@ -1,5 +1,3 @@
-## Architecture
-
 Architectural details like these staircases show the imagination and aesthetic of craftsmen in designing something utterly practical.
 
 

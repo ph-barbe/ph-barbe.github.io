@@ -1,5 +1,3 @@
-## Light and place
-
 Sometimes, places, light and people come together! Extroardinary moments were the world takes an increadible beauty, and precious shared memories!
 
 

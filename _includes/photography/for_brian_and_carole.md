@@ -1,5 +1,3 @@
-## Pictures for Brian and Carole
-
 My friend Brian was born in the United States, knows his country very
 well, is well traveled within, but never went outside. His curiosity
 is boundless though. Because I
