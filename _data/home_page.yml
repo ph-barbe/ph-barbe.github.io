@@ -1,8 +1,14 @@
+- name: Most recent blog posts
+  link: _includes/top_page/most_recent_posts.md
+  collapse: False
 - name: Professional interests and background
   link: _includes/top_page/professional_interests.md
   collapse: False
 - name: What I do
   link: _includes/top_page/what_i_do.md
+  collapse: True
+- name: Contact information
+  link: _includes/top_page/how_to_contact_me.md
   collapse: True
 - name: Bio-sketch
   link: _includes/top_page/professional_bio.md

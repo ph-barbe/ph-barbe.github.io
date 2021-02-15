@@ -11,7 +11,6 @@ title: Home
             <div class="content">
                 {% capture temp %}{% include_relative {{ item.link }}%}{% endcapture %}
                 {{ temp  | markdownify }}
-                <br>
             </div>
         </div>
     {% else %}
@@ -23,7 +22,7 @@ title: Home
             {{ temp  | markdownify }}
         </div>
     {% endif %}
-    <br><br>
+    <br>
 {% endfor %}
 
 <script src="{{ base.url | prepend: site.url }}/assets/js/collapsible.js">
