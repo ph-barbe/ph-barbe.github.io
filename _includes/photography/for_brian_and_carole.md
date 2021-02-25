@@ -3,8 +3,8 @@ well, is well traveled within, but never went outside. His curiosity
 is boundless though. Because I
 traveled and still travel a fair amount in Europe and Asia, he asked
 me to show him what these places look like. I take picture of places
-for him. I cannot remember how, but Carole joined Brian in asking
-pictures. So I take pictures for Brian and Carole!
+for him. I cannot remember how, but Carol joined Brian in asking
+pictures. So I take pictures for Brian and Carol!
 
 | ![image-title-here]({{site.baseurl}}/photography/places/ordinary_places/IMG_5038.JPG){:class="img-responsive" width="100%" style="float"} | I take pictures of undescript places. Often for no other reason that they are undescript and would be otherwise unoticed. It expresses the daily reality of people. But once they are pictured, these places become different for we tend to project an intent. The eye searches something, the mind asks questions. The undescript becomes mysterious: what is this store, what is the smell in this street, who are these people, what are they doing, where are they going, is it their usual way to dress...?|
 {:.pictureLeft}
@@ -21,5 +21,5 @@ pictures. So I take pictures for Brian and Carole!
 | ![image-title-here]({{site.baseurl}}/photography/places/ordinary_places/IMG_E7264.JPG){:class="img-responsive" width="100%" style="float"} | Another train station, in a rural area of France. The train is comming. On the other platform, one person sits, waiting for another train. The station is empty. Little towns are surviving, fighting for the train to keep operating. |
 {:.pictureLeft}
 
-| I also share with Brian and Carole my interest for architecture, as in this picture of the city hall of Shenzhen in China. I am not trying to take a particularly nice picture that could be featured in a magazine, but just communicate what I see. That picture however fails at rendering the feeling that the size produces. This building is massive, yet amazingly graceful with its comparatively thin undulating roof. |![image-title-here]({{site.baseurl}}/photography/places/ordinary_places/IMG_2720.JPG){:class="img-responsive" width="100%" style="float"} |
+| I also share with Brian and Carol my interest for architecture, as in this picture of the city hall of Shenzhen in China. I am not trying to take a particularly nice picture that could be featured in a magazine, but just communicate what I see. That picture however fails at rendering the feeling that the size produces. This building is massive, yet amazingly graceful with its comparatively thin undulating roof. |![image-title-here]({{site.baseurl}}/photography/places/ordinary_places/IMG_2720.JPG){:class="img-responsive" width="100%" style="float"} |
 {:.pictureRight}

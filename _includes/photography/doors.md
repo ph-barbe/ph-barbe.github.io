@@ -1,4 +1,4 @@
-There are plenty of things to picture in Paris. Brian and Carole have seen many street pictures over the years. I thought that I could give them a different feeling for the city by sending them pictures about a single topic, which would force me to look more closely to that topic and see the city differently. One such topic was doors and gates, which are under the same name *porte* in French.
+There are plenty of things to picture in Paris. Brian and Carol have seen many street pictures over the years. I thought that I could give them a different feeling for the city by sending them pictures about a single topic, which would force me to look more closely to that topic and see the city differently. One such topic was doors and gates, which are under the same name *porte* in French.
 
 It turns out that doors and gates are amazingly diverse in Paris. But picturing them created interesting questions on their purpose.
 
