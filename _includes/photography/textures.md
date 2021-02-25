@@ -1,4 +1,4 @@
-In its ownm way, mathematics is a study of a conceptual formulations of nature. Mathematical objects are every day objects, abstracted.
+In its ownm way, mathematics is a study of conceptual formulations of nature. Mathematical objects are every day objects, abstracted.
 
 Partial differential equations govern fluid dynamics, modeling the patterns seen in these two pictures.
 

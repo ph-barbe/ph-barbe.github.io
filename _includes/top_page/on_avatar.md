@@ -12,7 +12,7 @@ The books are:
 
 - *Three Dimensional Geometry and Topology* by W. Thurston. Not only the topic is interesting, but it is the most beautifully typset mathematical book I know. This represents my interests in pure mathematics, as well as the years I studied typography and book composition. It is also attached to David Pollard who made me interested in typesetting and typography, as well as some wonderful time in Blacksburg with Bill Floyd who was involved in the making of this book; and by association, his colleagues in the math department, Marty Day, Peter Haskell, Leslie Kay, John Rossi and others.
 
-- *Deep Learning* by I. Goodfellow, Y. Bengio, A. Courville, is in the same spirit as Friedman, Tibshirani and Hastie's book. It is also my marketing side: I wanted something about the topic of deep learning, and this is one of the few books available on the topic.
+- *Deep Learning* by I. Goodfellow, Y. Bengio, A. Courville, is in the same spirit as Friedman, Tibshirani and Hastie's book. It is also my marketing side: I wanted something about the topic of deep learning, and this is one of the few books available on the topic. I encountered neural networks first in 1993. So I have some historical perspective on that matter, and appreciate the field and its evolution.
 
 - *Commentaire* is a journal founded by [Raymond Aron](https://en.wikipedia.org/wiki/Raymond_Aron). The journal is very much a miror of his founder, dominated by realism and pragmatism, with a bend toward liberalism and social democracy. The authors tend to be practionners more than academics. It reflects my interest in the broad range of topics that it covers, albeit from a French perspective.
 

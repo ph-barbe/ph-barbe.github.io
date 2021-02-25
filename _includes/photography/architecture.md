@@ -4,7 +4,7 @@ Architectural details like these staircases show the imagination and aesthetic o
 ![stairs]({{site.baseurl}}/photography/architecture/IMG_1466.JPG){:class="img-responsive" width="45%" float="left"} 
 ![stairs]({{site.baseurl}}/photography/architecture/IMG_3553.JPG){:class="img-responsive" width="45%" float="left"}
 
-I enjoy architecture that shows creativity. The Versailles palace is an example of its time. I tend to picture buildings of our time, with a preference for horizontality to verticality, and simplicity to convolution. I also like surprising structures.
+I enjoy architecture that shows creativity. The Versailles palace is an example of its time. I tend to picture buildings of our time, with a preference for horizontality over verticality, and simplicity over convolution. I also like surprising structures.
 
 ![building]({{site.baseurl}}/photography/architecture/IMG_2944.JPG){:class="img-responsive" width="45%" style="float"}
 ![building]({{site.baseurl}}/photography/architecture/IMG_5504.JPG){:class="img-responsive" width="45%" style="float"}

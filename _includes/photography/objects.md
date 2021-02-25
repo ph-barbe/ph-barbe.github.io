@@ -1,4 +1,4 @@
-Objects are all around us. Decorative arts are an endless source of wonder that brightens everyday life. I find very moving that humans have this desire for aesthetic in objects that we use every day. This aesthetic search makes every day objects exceptional, changing their function from being used every day to being used in special occasions. Beyond captureing their beauty, picturing them is a way to express my admiration for those who design them.
+Objects are all around us. Decorative arts are an endless source of wonder that brightens everyday life. I find very moving that humans have this desire for aesthetic in objects that we use every day. This aesthetic search makes every day objects exceptional, changing their function from being used every day to being used in special occasions. Beyond capturing their beauty, picturing them is a way to express my admiration for those who design them.
 
 
 ![object]({{site.baseurl}}/photography/objects/IMG_0431.JPG){:class="img-responsive" width="70%" float="left"} 
@@ -23,6 +23,6 @@ Tables and desks, because of their size, cannot get the special occasion functio
 ![table]({{site.baseurl}}/photography/objects/IMG_1675.JPG){:class="img-responsive" width="45%" float="left"} 
 ![table]({{site.baseurl}}/photography/objects/IMG_5015.JPG){:class="img-responsive" width="45%" float="left"}
 
-Some artists with amazing imagination create new objects, not painting, not sculpture, hard to define, but so beautiful, transforming what would be an ordinary place into an exhibition gallery, able to use the most modern and unatural materials to allude to the most ancient and natural themes.
+Some artists with amazing imagination create totally new objects, not painting, not sculpture, hard to define, but so beautiful, transforming what would be an ordinary place into an exhibition gallery, able to use the most modern and unatural materials to allude to the most ancient and natural themes.
 
 ![cloud]({{site.baseurl}}/photography/objects/IMG_5186.JPG){:class="img-responsive" width="100%"}
