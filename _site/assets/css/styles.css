@@ -1,11 +1,10 @@
 :root {
-  --site_background: #F0F0F0;
-  --section_background: #FAFAFA;
+  --site_background: #e7e9f0;
+  --section_background: #fefefe;
+  --section_shadow: #fefeff;
   --font_color: #051747;
   --font_color_hover: #404040;
-  --font_color_navigation_on_page: #000000;
-  --font_color_navigation: #707070;
-  --box_shadow: #E0E0E0; }
+  --font_color_navigation_on_page: #535F80; }
 
 * {
   box-sizing: border-box; }
@@ -21,6 +20,9 @@ body {
   background-color: var(--site_background);
   color: var(--font_color);
   line-height: 1.5; }
+
+body.nav {
+  background-color: black; }
 
 .name {
   background-color: var(--section_background); }
@@ -110,7 +112,7 @@ button {
   color: var(--font_color); }
 
 .navigation {
-  background-color: var(--section_color);
+  background-color: var(--section_background);
   padding-top: 10px;
   padding-bottom: 40px; }
 
