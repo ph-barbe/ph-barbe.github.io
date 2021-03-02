@@ -1,8 +1,8 @@
 I try to remain educated, meaning reading some books, newspapers, articles and so on. My interests have been changing over the years, depending on where I live, who I hang out with, and geo-political events. Some constants have been international, domestic and military affaires. I also read a fair amount on architecture, design, and sustainability.
 
-Writing is an important part of my life. I wrote and write both scientific and general writings.
+Writing is an important part of my life. I wrote and write both scientific papers and general articles.
 
-In my spare time, I used to listen a lot of music and play a fair amount of piano. I learned the clarinet for a few years, and played the organ. I also wrote some music, stopped for several decades, and went back to it in 2020. 
+In my spare time I  played the clarinet and the organ for some years, but piano has been my main instrument. I wrote some music, stopped for several decades, and went back to it in 2020.
 
 My intellectual self is balanced by a life long interest in manual work. I can probably build a house from scratch though I never tried. I also had periods of elaborate cooking, though now I am mostly baking my own bread every day -- French baguettes straight from the oven are irresistible! I owe this bread making interest to our friend Joseph who is an accomplished musician, baker, writer, and photographer.
 
