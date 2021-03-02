@@ -1,11 +1,11 @@
 .navigation {
-    background-color: #FAFAFA;
+    background-color: var(--section_color);
     padding-top: 10px;
     padding-bottom: 40px;
 }
 
 .navigationColor {
-    color: #707070;
+    color: var(--font_color);
 }
 
 .navigationList {
@@ -23,7 +23,7 @@
 }
 
 .navigationOnPageColor{
-    color: #000000;
+    color: var(--font_color_navigation_on_page);
 }
 
 .navigation ul{
