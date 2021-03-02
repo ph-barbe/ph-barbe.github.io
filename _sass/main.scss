@@ -1,15 +1,3 @@
-:root {
-  --site_background_A: #d8dfe3;
-  --section_background_A: #f1f4f6;
-  --font_color_A: #202020;
-  --font_color_hover_A: #404040;
-  --site_background: #e7e9f0;
-  --section_background: #fefefe;
-  --font_color: #051747;
-  --font_color_hover: #404040;
-  --font_color_navigation_on_page: #535F80;
-}
-
 * {
   box-sizing: border-box
 } 
@@ -63,7 +51,7 @@ a:hover{
     padding-right: var(--basicPadding);
     padding-top: 5px;
     padding-bottom: 20px;
-    box-shadow: 2px 3px 3px #E0E0E0;
+    box-shadow: 2px 3px 3px var(--section_shadow);
     color: var(--font_color);
 }
 
@@ -72,7 +60,7 @@ a:hover{
   background: var(--section_background);
   border-left: var(--basicPadding);
   border-right: var(--basicPadding);
-  box-shadow: 2px 3px 3px #E0E0E0;
+  box-shadow: 2px 3px 3px var(--section_shadow);
   color: var(--font_color);
 }
 
