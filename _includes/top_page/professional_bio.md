@@ -1,4 +1,4 @@
-Philippe Barbe is a leader and expert in data science, AI, and mathematics, with a wide range of experiences in business, industry, government and research and a very substantial international experience.
+Philippe Barbe is a leader, expert and trusted advisor in data science, AI, and mathematics, with a wide range of experiences in business, industry, government and research and a very substantial international experience.
 
 After some noted work on the cost of unemployment in France, he worked for 21 years as mathematician at the prestigious Centre National de la Recherche Scientifique in France. He collaborated with teams from very diverse backgrounds on multiple continents. He was invited professor in numerous universities worldwide, including Yale and Georgia Tech. He is the author of 5 books, many scientific papers, and gave conferences to audiences ranging from a few to over 1,000.
 
