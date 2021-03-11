@@ -1,4 +1,4 @@
-As a business person, I do really one thing: innovation. There two broad categories of innovations in which I specialize:
+As a business person, I do one thing: innovation. There two broad categories of innovations in which I specialize:
 
 <!--more-->
 1. help organizations to define their vision and strategy. As a mathematician, I approach these in a very analytical way, with a lot of rigor, using both inductive and deductive methods, and imagination when it comes to vision (yes, mathematicians, like other scientists, have imagination, for it is needed to imagine solutions to difficult problems).
