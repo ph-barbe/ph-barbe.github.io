@@ -12,14 +12,25 @@ layout: default
             <figcaption class="imageCaption">credit: {{ page.credit }}</figcaption>
         </td>
         <td>
+            <h1 style="display: inline;">
+                {{ page.title }}
+            </h1>
+            <br>
+            <i>
+                {% if page.by %}
+                    by {{ page.by }}
+                {% else %}
+                    by Philippe Barbe
+                {% endif %}
+            </i>
+            <br>
             <div class="blogPostDate">
                 {{ page.date | date_to_string }}
             </div>
-            <br>
-            <h1>{{ page.title }}</h1>
+            
         </td>
     </tr>
 </table>
-
+<br>
 {{ content }}
 </div>
