@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Should you hire a professional Mathematician?<br>
-        Part 1: what do professional mathematicians do?"
+title: "Should you hire a professional Mathematician?<br>Part 1: what do professional mathematicians do?"
 image: honeycomb_and_dual.png
 credit: courtesy Dr. W.S. Li (Honeycomb, its dual, its puzzle)
 ---
