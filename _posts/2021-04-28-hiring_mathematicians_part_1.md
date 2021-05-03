@@ -38,7 +38,7 @@ Understanding part of the world through mathematical objects
 
 The general view is that many professional Mathematicians work in universities where “doing” mathematics results in publishing articles in academic journals like this.  
 
-Of course simply solving a specific equation like 3x =123,123,123 … what is x? ( 41,041,041) won’t get published as it is not new mathematics, even though this specific equation may not have been seen before.  Banging on a stone doesn’t make you a stone carver and applying a formula to solve an equation in isolation isn’t mathematics as it brings no new understanding. 
+Of course simply solving a specific equation like 3*x* =123,123,123 … what is *x*? ( 41,041,041) won’t get published as it is not new mathematics, even though this specific equation may not have been seen before.  Banging on a stone doesn’t make you a stone carver and applying a formula to solve an equation in isolation isn’t mathematics as it brings no new understanding. 
 
 Mathematics education in the US is often about applying the right formula. This is unfortunate, because there is little further from actually doing mathematics than applying formulas.  Sure Mathematicians use formulas, as the stone carver uses a chisel but the work is not about the chisel. 
 
@@ -48,9 +48,9 @@ Formulas are ways to express mathematical ideas. Applying them mechanically is n
 
 The danger of using equations when writing about mathematics is that most people associate mathematics with equations. And, equations have some specific solution.  Mathematics seems more about understanding properties of mathematical objects than solving equations.
 
-Given that many Mathematicians produce articles, the central theme of which are theorems, it is tempting to conclude that doing mathematics is proving theorems.  This is a superficial view, defining the activity by what it produces, by its outcome.
+Given that many Mathematicians produce articles, the central theme of which are theorems, it is tempting to conclude that *doing* mathematics is proving theorems.  This is a superficial view, defining the activity by what it produces, by its outcome.
 
-My experience as a professional Mathematician, is that doing mathematics is about trying to understand a part of the world that can be represented by mathematical objects, expressed through a text and possibly some formulas.  
+My experience as a professional Mathematician, is that *doing* mathematics is about trying to understand a part of the world that can be represented by mathematical objects, expressed through a text and possibly some formulas.  
 
 What is a mathematical object is unclear.  Maybe a useful abstraction, a rich abstraction on which one can say a lot of things, that is useful to construct and understand other abstractions, and ultimately the physical reality around us.
 
