@@ -1,0 +1,1 @@
+The rendering of the music through the software is unfortunately flat, with little dynamic and lacks the elegance that envisionned. I did not want to spend the time to mark the score. This is reflected in the result.
