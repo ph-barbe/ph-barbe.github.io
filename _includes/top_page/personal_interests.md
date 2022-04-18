@@ -12,4 +12,6 @@ This tremendous training gave me an appreciation for all sports, and tons of fun
 
 I still do some physical activity to keep in shape, and remain an avid downhill skier.
 
+I also sail, which at time qualifies as physical activity.
+
 If you want to laugh at my expense: I jumped far lower at the pole vault then at the high jump! The only way I can jump as high is to throw away the pole before jumping!
